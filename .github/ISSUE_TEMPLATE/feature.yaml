@@ -1,9 +1,8 @@
-name: "[Feature]"
-about: Suggest an idea for this project
+name: Feature
+description: Suggest an idea for this project
 title: "[FEATURE]:"
 labels: feature
 projects: "Goldenback/Projet-Git-Ilies-Maleaume"
-assignees: ''
 body:
   - type: textarea
     attributes:
