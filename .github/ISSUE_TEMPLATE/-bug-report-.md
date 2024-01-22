@@ -1,5 +1,5 @@
 ---
-name: "Bug Report"
+name: "[Bug Report]"
 about: File a bug report
 title: "[BUG REPORT]:"
 labels: bug
