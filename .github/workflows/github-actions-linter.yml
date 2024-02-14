@@ -1,0 +1,17 @@
+name: Github Actions js linter
+run-name: ${{ github.actor }} is trying to merge.
+on: [pull_request]
+jobs:
+  linter:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
+      - run: pwd
+      - run: ls
+      - run: sudo apt-get install npm
+      - run: npm install standard
+      - run: npx standard
