@@ -1,41 +1,44 @@
-## Contributing
+## Contribution
 
 [fork]: /fork
+
 [pr]: /compare
+
 [style]: https://standardjs.com/
+
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+Salut ! Nous sommes ravis que vous souhaitiez contribuer à ce projet. Votre aide est essentielle pour le maintenir excellent.
 
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+Veuillez noter que ce projet est publié avec un [Code de Conduite des Contributeurs][code-of-conduct]. En participant à ce projet, vous acceptez de respecter ses termes.
 
-## Issues and PRs
+## Problèmes et PRs
 
-If you have suggestions for how this project could be improved, or want to report a bug, open an issue! We'd love all and any contributions. If you have questions, too, we'd love to hear them.
+Si vous avez des suggestions sur la manière dont ce projet pourrait être amélioré, ou si vous souhaitez signaler un bogue, ouvrez un problème ! Nous apprécions toutes les contributions. Si vous avez des questions, nous serions ravis de les entendre.
 
-We'd also love PRs. If you're thinking of a large PR, we advise opening up an issue first to talk about it, though! Look at the links below if you're not sure how to open a PR.
+Nous apprécierions également les PRs. Si vous envisagez une grande PR, nous vous conseillons d'ouvrir d'abord un problème pour en discuter ! Consultez les liens ci-dessous si vous n'êtes pas sûr de comment ouvrir une PR.
 
-## Submitting a pull request
+## Soumettre une pull request
 
-1. [Fork][fork] and clone the repository.
-1. Configure and install the dependencies: `npm install`.
-1. Make sure the tests pass on your machine: `npm test`, note: these tests also apply the linter, so there's no need to lint separately.
-1. Create a new branch: `git checkout -b my-branch-name`.
-1. Make your change, add tests, and make sure the tests still pass.
-1. Push to your fork and [submit a pull request][pr].
-1. Pat your self on the back and wait for your pull request to be reviewed and merged.
+1. [Forkez][fork] et clonez le dépôt.
+2. Configurez et installez les dépendances : `npm install`.
+3. Assurez-vous que les tests passent sur votre machine : `npm test`, note : ces tests appliquent également le linter, donc il n'est pas nécessaire de les linter séparément.
+4. Créez une nouvelle branche : `git checkout -b mon-nom-de-branche`.
+5. Effectuez votre modification, ajoutez des tests et assurez-vous que les tests passent toujours.
+6. Poussez vers votre fork et [soumettez une pull request][pr].
+7. Félicitez-vous et attendez que votre pull request soit examinée et fusionnée.
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+Voici quelques choses que vous pouvez faire pour augmenter les chances d'acceptation de votre pull request :
 
-- Follow the [style guide][style] which is using standard. Any linting errors should be shown when running `npm test`.
-- Write and update tests.
-- Keep your changes as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+- Suivez le [guide de style][style] qui utilise standard. Toutes les erreurs de linting doivent être affichées lors de l'exécution de `npm test`.
+- Écrivez et mettez à jour les tests.
+- Gardez vos modifications aussi ciblées que possible. S'il y a plusieurs modifications que vous souhaitez apporter qui ne dépendent pas les unes des autres, envisagez de les soumettre sous forme de pull requests séparées.
+- Écrivez un [bon message de commit](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-Work in Progress pull requests are also welcome to get feedback early on, or if there is something blocked you.
+Les pull requests en cours de réalisation sont également les bienvenues pour obtenir des retours rapidement, ou s'il y a quelque chose qui vous bloque.
 
-## Resources
+## Ressources
 
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-- [GitHub Help](https://help.github.com)
+- [Comment contribuer à l'open source](https://opensource.guide/how-to-contribute/)
+- [Utilisation des pull requests](https://help.github.com/articles/about-pull-requests/)
+- [Aide GitHub](https://help.github.com)

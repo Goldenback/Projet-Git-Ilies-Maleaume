@@ -1,40 +1,36 @@
-Code of Conduct
-===============
+# Code de Conduite
 
-All participants of Projet-Git-Ilies-Maleaume are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with Projet-Git-Ilies-Maleaume .
+Tous les participants du Projet-Git-Ilies-Maleaume sont tenus de respecter notre Code de Conduite, aussi bien en ligne que lors d'événements en personne organisés et/ou associés au Projet-Git-Ilies-Maleaume.
 
-The Pledge
-----------
+## L'Engagement
 
-In the interest of fostering an open and welcoming environment, we pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous engageons à rendre la participation à notre projet et à notre communauté une expérience exempte de harcèlement pour tous, indépendamment de l'âge, de la taille corporelle, du handicap, de l'origine ethnique, de l'identité et de l'expression de genre, du niveau d'expérience, de la nationalité, de l'apparence personnelle, de la race, de la religion, de l'identité et de l'orientation sexuelles.
 
-The Standards
--------------
+## Les Normes
 
-Examples of behaviour that contributes to creating a positive environment include:
+Des exemples de comportements qui contribuent à créer un environnement positif incluent :
 
--   Using welcoming and inclusive language
--   Being respectful of differing viewpoints and experiences
--   Gracefully accepting constructive criticism
--   Referring to people by their preferred pronouns and using gender-neutral pronouns when uncertain
+- Utiliser un langage accueillant et inclusif
+- Être respectueux des points de vue et des expériences différents
+- Accepter gracieusement les critiques constructives
+- Se référer aux personnes par leurs pronoms préférés et utiliser des pronoms neutres en cas d'incertitude
 
-Examples of unacceptable behaviour by participants include:
+Des exemples de comportements inacceptables de la part des participants incluent :
 
--   Trolling, insulting/derogatory comments, public or private harassment
--   Publishing others' private information, such as a physical or electronic address, without explicit permission
--   Not being respectful to reasonable communication boundaries, such as 'leave me alone,' 'go away,' or 'I'm not discussing this with you.'
--   The usage of sexualised language or imagery and unwelcome sexual attention or advances
--   Swearing, usage of strong or disturbing language
--   Demonstrating the graphics or any other content you know may be considered disturbing
--   Starting and/or participating in arguments related to politics
--   Assuming or promoting any kind of inequality including but not limited to: age, body size, disability, ethnicity, gender identity and expression, nationality and race, personal appearance, religion, or sexual identity and orientation
--   Drug promotion of any kind
--   Attacking personal tastes
--   Other conduct which you know could reasonably be considered inappropriate in a professional setting.
+- Le trollage, les commentaires insultants/désobligeants, le harcèlement public ou privé
+- La publication d'informations privées sur autrui, comme une adresse physique ou électronique, sans permission explicite
+- Ne pas respecter les limites de communication raisonnables, telles que 'laissez-moi tranquille', 'partez', ou 'je ne discute pas avec vous.'
+- L'usage de langage ou d'imagérie sexualisée et l'attention ou les avances sexuelles non désirées
+- Jurer, utiliser un langage fort ou dérangeant
+- Démontrer des graphiques ou tout autre contenu que vous savez peut être considéré comme dérangeant
+- Commencer et/ou participer à des arguments liés à la politique
+- Supposer ou promouvoir tout type d'inégalité, y compris mais sans s'y limiter : l'âge, la taille corporelle, le handicap, l'origine ethnique, l'identité et l'expression de genre, la nationalité et la race, l'apparence personnelle, la religion, ou l'identité et l'orientation sexuelles
+- Promotion de la drogue de n'importe quel type
+- Attaquer les goûts personnels
+- Tout autre comportement que vous savez raisonnablement considéré comme inapproprié dans un contexte professionnel.
 
-Enforcement
------------
+## Application
 
-Violations of the Code of Conduct may be reported by sending an email to <mberquer@myges.fr> or <irimani@myges.fr>. All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
+Les violations du Code de Conduite peuvent être signalées en envoyant un e-mail à <mberquer@myges.fr> ou <irimani@myges.fr>. Tous les rapports seront examinés et investigués et entraîneront une réponse jugée nécessaire et appropriée aux circonstances. Des détails supplémentaires sur les politiques d'application spécifiques peuvent être publiés séparément.
 
-We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
+Nous avons le droit et la responsabilité de supprimer les commentaires ou autres contributions qui ne sont pas alignés sur ce Code de Conduite, ou de bannir temporairement ou définitivement tout membre pour d'autres comportements qu'ils jugent inappropriés, menaçants, offensants ou nuisibles.
