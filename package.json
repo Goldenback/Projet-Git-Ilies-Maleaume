@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+      "node-pty": "^1.0.0",
+      "standard": "^17.1.0"
+    },
+    "scripts": {
+      "test": "npx standard"
+    }
+  }
+  
